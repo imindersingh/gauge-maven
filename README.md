@@ -1,0 +1,1 @@
+Sample gauge maven project
