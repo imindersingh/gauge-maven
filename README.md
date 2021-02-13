@@ -1,1 +1,1 @@
-Sample gauge maven project
+Sample gauge maven project for debugging gauge issue with reportportal plugin
